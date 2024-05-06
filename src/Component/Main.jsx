@@ -11,7 +11,7 @@ function Main() {
         <div className='absolute top-0 left-0 w-full h-screen'>
         
         <div className='max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-start'>
-            <h1 className='text-4xl font-bold text-gray-800 sm:text-5xl '>I'm Shehan Amarasinghe</h1>
+            <h1 className='mt-20 text-4xl font-bold text-gray-800 sm:text-5xl'>I'm Shehan Amarasinghe</h1>
             <h2 className='flex pt-4 text-2xl text-gray-800 sm:text-3xl'>I'm
             <TypeAnimation
             sequence={[
