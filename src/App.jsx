@@ -4,9 +4,12 @@ import Project from "./Component/Project"
 import Sildenav from "./Component/Sildenav"
 import Contact from "./Component/Contact"
 import Footer from "./Component/Footer"
+import { useEffect } from "react"
 
 function App() {
-  
+   useEffect(()=>{
+    document.title="Shehan Amarasinghe";
+   },[])
 
   return (
     <>
