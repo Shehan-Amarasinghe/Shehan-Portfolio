@@ -7,12 +7,11 @@ import {FaGithub,FaInstagram, FaLinkedinIn } from 'react-icons/fa'
 function Main() {
   return (
     <div id='main' className='flex justify-center items-right mt-11 text-[20px]'>
-        <img src={cover_img} alt="" className='object-cover w-[250px] h-[250px] rounded-[10%] border-2 border-blue-500 '/>
+        <img src={cover_img} alt="" className='object-cover w-[250px] h-[250px] rounded-[10%] border-2 border-blue-500'/>
         <div className='absolute top-0 left-0 w-full h-screen'>
         
-        <div className='max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-start'>
-            <h1 className='mt-20 text-4xl font-bold text-gray-800 sm:text-5xl '>I'm Shehan Amarasinghe</h1>
-            <h1 className='mt-20 text-4xl font-bold text-gray-800 sm:text-5xl'>I'm Shehan Amarasinghe</h1>
+        <div className='max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-start mt-20'>
+            <h1 className='text-4xl font-bold text-gray-800 sm:text-5xl '>I'm Shehan Amarasinghe</h1>
 
             <h2 className='flex pt-4 text-2xl text-gray-800 sm:text-3xl'>I'm
             <TypeAnimation
