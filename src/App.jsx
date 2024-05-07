@@ -7,9 +7,6 @@ import Footer from "./Component/Footer"
 import { useEffect } from "react"
 
 function App() {
-   useEffect(()=>{
-    document.title="Shehan Amarasinghe";
-   },[])
 
   return (
     <>
