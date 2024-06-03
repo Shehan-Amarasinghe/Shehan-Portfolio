@@ -19,7 +19,7 @@ function Project() {
             <Projectitem img={taking_note} title='Note taking app'/>
             <Projectitem img={outer_clove} title='Outer clove resturant'/>
             <Projectitem img={SLRailway_project} title='SL Railway ticket booking system'/>
-            <Projectitem img={To_do_list} title='SN ENTERPRISES Static web'/>
+            <Projectitem img={To_do_list} title='To-do-list app'/>
             <Projectitem img={c_plus} title='Spire health care project C++'/>
             <Projectitem img={java} title='Apple istore project java'/>
         </div>
