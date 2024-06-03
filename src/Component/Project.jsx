@@ -2,7 +2,7 @@ import React from 'react'
 import taking_note from '../assets/note-taking-app.png'
 import outer_clove from '../assets/outer-clove.png'
 import SLRailway_project from '../assets/sl-train.png'
-import Sn_enterprises from '../assets/snenterprises-web.png'
+import To_do_list from '../assets/To-do-list.png'
 import c_plus from '../assets/c_plus.png'
 import java from '../assets/Java.webp'
 import Projectitem from './Projectitem'
@@ -19,7 +19,7 @@ function Project() {
             <Projectitem img={taking_note} title='Note taking app'/>
             <Projectitem img={outer_clove} title='Outer clove resturant'/>
             <Projectitem img={SLRailway_project} title='SL Railway ticket booking system'/>
-            <Projectitem img={Sn_enterprises} title='SN ENTERPRISES Static web'/>
+            <Projectitem img={To_do_list} title='SN ENTERPRISES Static web'/>
             <Projectitem img={c_plus} title='Spire health care project C++'/>
             <Projectitem img={java} title='Apple istore project java'/>
         </div>
