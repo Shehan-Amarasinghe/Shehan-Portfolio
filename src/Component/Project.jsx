@@ -16,7 +16,7 @@ function Project() {
         <h1 className='text-4xl font-bold text-center text-[#001b5e]'>Projects</h1>
         <p className='py-8 text-center'>This is my latest projects</p>
 
-        <div className='grid gap-12 sm:grid-cols-2'>
+        <div className='grid gap-12 sm:grid-cols-4'>
             <Projectitem img={taking_note} title='Note taking app'/>
             <Projectitem img={outer_clove} title='Outer clove resturant'/>
             <Projectitem img={SLRailway_project} title='SL Railway ticket booking system'/>
