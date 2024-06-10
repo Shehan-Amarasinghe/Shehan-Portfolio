@@ -6,6 +6,7 @@ import To_do_list from '../assets/To-do-list.png'
 import c_plus from '../assets/c_plus.png'
 import java from '../assets/Java.webp'
 import Projectitem from './Projectitem'
+import Weather_App from './weather-app.png'
 
 
 
@@ -20,6 +21,7 @@ function Project() {
             <Projectitem img={outer_clove} title='Outer clove resturant'/>
             <Projectitem img={SLRailway_project} title='SL Railway ticket booking system'/>
             <Projectitem img={To_do_list} title='To-do-list app'/>
+            <Projectitem img={Weather_App} title='Weather-app'/>
             <Projectitem img={c_plus} title='Spire health care project C++'/>
             <Projectitem img={java} title='Apple istore project java'/>
         </div>
