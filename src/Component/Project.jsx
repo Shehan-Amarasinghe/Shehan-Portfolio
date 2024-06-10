@@ -5,7 +5,6 @@ import SLRailway_project from '../assets/sl-train.png'
 import To_do_list from '../assets/To-do-list.png'
 import c_plus from '../assets/c_plus.png'
 import java from '../assets/Java.webp'
-import Projectitem from './Projectitem'
 import Weather_App from './weather-app.png'
 
 
