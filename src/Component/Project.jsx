@@ -3,7 +3,7 @@ import taking_note from '../assets/note-taking-app.png'
 import outer_clove from '../assets/outer-clove.png'
 import SLRailway_project from '../assets/sl-train.png'
 import To_do_list from '../assets/To-do-list.png'
-import Weather_App from './weather-app.png'
+import Weather_App from '../assets/weather-app.png'
 import c_plus from '../assets/c_plus.png'
 import java from '../assets/Java.webp'
 
