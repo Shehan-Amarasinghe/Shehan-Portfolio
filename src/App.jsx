@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-      <Sildenav/ >
+      <Sildenav/>
       <Main/>
       <About/>
       <Project/>
