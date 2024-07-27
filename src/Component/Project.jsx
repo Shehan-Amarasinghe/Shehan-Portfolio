@@ -17,8 +17,11 @@ function Project() {
         <h1 className='text-4xl font-bold text-center text-[#001b5e]'>Projects</h1>
         <p className='py-8 text-center'>This is my latest projects</p>
 
-        <div className='grid gap-12 sm:grid-cols-2'>
+        <div className='md:w-[60%] md:h-[10%] mx-auto'>
             <Projectitem img={AxeL_Web} title='Axel Furniture Web'/>
+        </div>
+        <br />
+        <div className='grid gap-12 sm:grid-cols-2'>
             <Projectitem img={Dashboard} title='Dashboard-Next.js'/>
             <Projectitem img={taking_note} title='Note taking app'/>
             <Projectitem img={outer_clove} title='Outer clove resturant'/>
